@@ -10,13 +10,13 @@ Kelas :TI22B1
 
 ![img1](https://user-images.githubusercontent.com/115475428/205484401-48a31748-7a08-4dde-9428-a39ea5ea1bee.png)
 
-2. Lalu buka Latihan.py dan masukan coding sebagai berikut lalu run dengan mengetikan perintah berikut diterminal `python Latihan.py`:
+2. Lalu buka Latihan.py dan masukan coding sebagai berikut lalu run dengan mengetikan perintah berikut diterminal `python pratikum6.py`:
+![01](https://user-images.githubusercontent.com/115475428/205496737-23ba04c6-5604-41c6-955b-4b4a197bca62.png)
 
-      ![latihan1](img/latihan.png)
+dan berikut hasilnya :
 
-      dan berikut hasilnya :
+![02](https://user-images.githubusercontent.com/115475428/205496760-1164cb22-57b4-4f1a-9615-de692d2c9ac4.png)
 
-      ![hasil](img/hasil-latihan1.png)
 
 3. Selanjutnya kita akan buat program crud sederhana dan berikut `flowchart` program yang akan dibuat.
 
