@@ -25,7 +25,12 @@ dan berikut hasilnya :
 
 4. Lalu buka file `Praktikum6.py` dan masukan codingan sebagai berikut lalu run dengan mengetikan perintah berikut diterminal `python Praktikum6.py`:
 
-      ![Praktikum](img/praktikum.png)
+
+![px01](https://user-images.githubusercontent.com/115475428/205507609-3564a6f0-2be2-45d6-8dbd-1cade3970e54.png)
+
+![px02](https://user-images.githubusercontent.com/115475428/205507615-9f62a7bc-4736-4e49-8746-9555b2a5b95e.png)
+
+![px03](https://user-images.githubusercontent.com/115475428/205507635-8ae73496-707e-45ca-96e3-37af6cbf9c7b.png)
 
       dan Berikut hasilnya :
 
