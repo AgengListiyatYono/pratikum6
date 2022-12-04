@@ -31,23 +31,29 @@ dan berikut hasilnya :
 
       Jika memilih opsi `C = menambah data` maka akan tampil sebagai berikut :
 
-      ![hasil](img/tambah.png)
+![PC01](https://user-images.githubusercontent.com/115475428/205506726-b424c29f-69bc-4200-9dfd-327682451608.png)
+
+      
 
       Jika memilih opsi `R = Melihat semua data` maka akan tampil sebagai berikut :
 
-      ![delete](img/tampil.png)
+![PR02](https://user-images.githubusercontent.com/115475428/205506741-d45c3922-a571-4e77-bcc2-2695b533a6a8.png)
 
+      
       Jika memilih opsi `U = mengupdate data` maka akan tampil sebagai berikut :
 
-      ![ubah](img/ubah.png)
+![PU03](https://user-images.githubusercontent.com/115475428/205506781-5ae0f3da-59d4-4950-a4a8-1209a3c3e4b8.png)
 
+      
+     Jika memilih opsi `D = Menghapus data` maka akan tampil sebagai berikut :
 
-      Jika memilih opsi `D = Menghapus data` maka akan tampil sebagai berikut :
+![PD004](https://user-images.githubusercontent.com/115475428/205506970-e7e4cc12-9b79-4a46-acaf-1ab34ec09fcd.png)
 
-      ![delete](img/hapus.png)
 
       Jika memilih opsi `Q = Keluar Program` maka akan tampil sebagai berikut :
 
-      ![quit](img/quit.png)
+![PQ04](https://user-images.githubusercontent.com/115475428/205506834-418b5315-8458-4467-8688-4111d781d51f.png)
+
+      
 
 ### selesai. seperti itulah program crud sederhana yang kita buat,
