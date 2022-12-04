@@ -19,8 +19,9 @@ dan berikut hasilnya :
 
 
 3. Selanjutnya kita akan buat program crud sederhana dan berikut `flowchart` program yang akan dibuat.
+![flowchart (1)](https://user-images.githubusercontent.com/115475428/205496865-049240f4-4d32-4ddb-a1fd-3b30c608b85f.png)
 
-      ![flowchart](img/flowchart.png)
+    
 
 4. Lalu buka file `Praktikum6.py` dan masukan codingan sebagai berikut lalu run dengan mengetikan perintah berikut diterminal `python Praktikum6.py`:
 
