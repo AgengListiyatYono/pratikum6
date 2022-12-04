@@ -1,5 +1,7 @@
 Nama : Ageng Listiyat Yono
+
 NIM : 312210082
+
 Kelas :TI22B1
 # ## Latihan Menggunakan Function dan Lambda pada python dan membuat program crud sederhana
 
