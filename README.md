@@ -5,9 +5,10 @@ NIM : 312210082
 Kelas :TI22B1
 # ## Latihan Menggunakan Function dan Lambda pada python dan membuat program crud sederhana
 
-1. Pertama kita buat buat folder `11-function-lambda` dan didalam kita buat file bernama `Latihan.py` dan `Praktikum6.py`.
+1. Pertama kita buat buat folder baru `Praktikum6.py`.
 
-      ![folder](img/folder.png)
+
+![img1](https://user-images.githubusercontent.com/115475428/205484401-48a31748-7a08-4dde-9428-a39ea5ea1bee.png)
 
 2. Lalu buka Latihan.py dan masukan coding sebagai berikut lalu run dengan mengetikan perintah berikut diterminal `python Latihan.py`:
 
